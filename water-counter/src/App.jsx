@@ -8,7 +8,7 @@ function App() {
 
   const increase = () => {
     setLevel(theLevel + 10);
-    console.log(theLevel);
+    // console.log(theLevel);
   };
 
   const reset = () => {
