@@ -7,8 +7,11 @@ Features:
 - Reset water
 
 
-# Tech Stack
-React,CSS.
+## Tech Stack
+
+**Client:** React, css
+
+**Server:** N/A
 
 ## Installation
 
